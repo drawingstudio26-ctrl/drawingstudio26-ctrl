@@ -1,6 +1,13 @@
 # 💫 About Me:
-🔭 Currently working on app development, Flutter apps, UI/UX projects, and SQL-based backends<br><br>🌱 Learning Flutter app development, Java, DCN, backend deployment, and system design<br><br>🤝 Open to collaborating on practical web/app projects<br><br>💬 Ask me about SQL, Linux, Supabase vs Firebase, AWS servers, Java, C/C++<br><br>⚡ Fun fact: I learn by breaking systems and fixing them
+🔭 Currently building scalable mobile applications using Flutter, crafting intuitive UI/UX designs, and developing robust SQL-powered backend systems.
 
+🌱 Actively expanding my expertise in Flutter development, Java programming, Data Communication & Networking (DCN), backend deployment strategies, and system design architecture.
+
+🤝 Eager to collaborate on impactful, real-world web and mobile application projects that solve practical problems.
+
+💬 Feel free to ask me about SQL, Linux, Supabase vs Firebase, AWS servers, Java, and C/C++.
+
+⚡ Fun fact: I grow by breaking systems, understanding their core logic, and rebuilding them stronger and smarter.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvi-turwatkar-461593282) 
