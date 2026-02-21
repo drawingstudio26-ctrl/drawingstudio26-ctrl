@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I'm Tanvi Turwatkar
 🔭 Currently building scalable mobile applications using Flutter, crafting intuitive UI/UX designs, and working on building robust SQL-powered backend systems.
 
 🌱 Actively expanding my expertise in App development, Java programming, Data Communication & Networking (DCN), backend deployment strategies, and system design architecture.
