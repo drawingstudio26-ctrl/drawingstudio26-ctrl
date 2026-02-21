@@ -11,5 +11,5 @@
 
 ![Tanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drawingstudio26-ctrl&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 ![GitHub Streak](https://streak-stats.demolab.com?user=drawingstudio26-ctrl&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drawingstudio26-ctrl&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drawingstudio26-ctrl&layout=compact&theme=radical&cache_seconds=1800)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
