@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 Currently building scalable mobile applications using Flutter, crafting intuitive UI/UX designs, and developing robust SQL-powered backend systems.
+🔭 Currently building scalable mobile applications using Flutter, crafting intuitive UI/UX designs, and working on building robust SQL-powered backend systems.
 
-🌱 Actively expanding my expertise in Flutter development, Java programming, Data Communication & Networking (DCN), backend deployment strategies, and system design architecture.
+🌱 Actively expanding my expertise in App development, Java programming, Data Communication & Networking (DCN), backend deployment strategies, and system design architecture.
 
 🤝 Eager to collaborate on impactful, real-world web and mobile application projects that solve practical problems.
 
-💬 Feel free to ask me about SQL, Linux, Supabase vs Firebase, AWS servers, Java, and C/C++.
+💬 Feel free to ask me about SQL, Linux, Firebase, AWS servers, Java, and C/C++.
 
 ⚡ Fun fact: I grow by breaking systems, understanding their core logic, and rebuilding them stronger and smarter.
 
